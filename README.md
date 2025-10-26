@@ -1,6 +1,6 @@
 <div align="center">
 
-# `echo "Hello, World! I'm Eyad Eltaher"`
+# `echo "Hello, World! I'm Eyad El-Taher"`
 
 ### **Offensive Security | Penetration Tester | Bug Bounty Hunter**
 
@@ -12,6 +12,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://imageio.forbes.com/specials-images/imageserve/67ec0025d8854be78bc70986/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Eyad Eltaher - Cybersecurity & Pentesting" width="800"/>
+</p>
+
+
 ## 🛠️ **Arsenal & Skills**
 
 ### **Domains of Expertise**
@@ -20,7 +25,7 @@
 * **Web Application Security Assessment**
 * **Active Directory Exploitation**
 * **Social Engineering** (Phishing campaigns)
-* **Source Code Review** (Python, Java, C#)
+* **Source Code Review** (Python, Java, JS)
 
 ### **Core Competencies**
 
