@@ -17,43 +17,27 @@
 </p>
 
 
-## 🛠️ **Arsenal & Skills**
+##  **Arsenal & Skills**
 
 ### **Domains of Expertise**
 
 * **Network Penetration Testing**
 * **Web Application Security Assessment**
-* **Active Directory Exploitation**
-* **Social Engineering** (Phishing campaigns)
-* **Source Code Review** (Python, Java, JS)
+* **Social Engineering**
+* **Source Code Review** (Java, JS)
 
 ### **Core Competencies**
 
-* **Reconnaissance:** OSINT, subdomain enumeration, network scanning (Nmap)
-* **Vulnerability Assessment & Analysis:** Manual and tool-assisted (Nessus)
+* **Reconnaissance:** OSINT, subdomain enumeration, network scanning
+* **Vulnerability Assessment & Analysis:** Manual and tool-assisted 
 * **Exploitation:** Metasploit, custom scripts, privilege escalation (Linux/Windows)
 * **Reporting & Communication:** Detailed technical reports with executive summaries and actionable remediation guidance (LaTeX).
-
-### **Toolbox**
-
-<details>
-<summary><b>Click to expand my toolkit</b></summary>
-
-| Category                    | Tools                                                            |
-| :-------------------------- | :--------------------------------------------------------------- |
-| **Reconnaissance**          | `Nmap`, `Amass`, `Subfinder`, `theHarvester`, `Shodan`, `Censys` |
-| **Web Application**         | `Burp Suite`, `sqlmap`, `ffuf`, `Nikto`                          |
-| **Exploitation**            | `Metasploit`, custom exploit scripts                             |
-| **Password Attacks**        | `Hashcat`, `John the Ripper`, `Hydra`                            |
-| **Wireless**                | `Aircrack-ng`, `Kismet`                                          |
-| **OSINT**                   | `Maltego`, `SpiderFoot`, `Recon-ng`                              |
-| **Programming / Scripting** | `Python`, `Bash`                                                 |
 
 </details>
 
 ---
 
-## 🔬 **Methodology & Philosophy**
+##  **Methodology & Philosophy**
 
 I follow a thorough, repeatable, and ethical approach to security testing:
 
@@ -68,30 +52,7 @@ My aim is not just to identify vulnerabilities but to explain business risk and 
 
 ---
 
-## 📂 Repository Overview
-
-This GitHub hosts a diverse collection of projects spanning **security automation**, **desktop & network tools**, **educational resources**, **emulators**, and **full-stack experiments**. Each repository reflects hands-on work and continuous learning.
-
-| Repository                                                                                                                              | Description                                                                           |
-| :-------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |
-| [**java-data-structures**](https://github.com/Eyadeltaher/java-data-structures)                                                         | Java implementations of core data structures — great for studying algorithms and OOP. |
-| [**Cybersecurity-notes**](https://github.com/Eyadeltaher/Cybersecurity-notes)                                                           | LaTeX-organized notes on web security, XSS, CSRF, HTTPX, and practical labs.          |
-| [**JavaScript-simple-projects**](https://github.com/Eyadeltaher/JavaScript-simple-projects)                                             | Small vanilla JS projects demonstrating DOM, APIs, and front-end fundamentals.        |
-| [**wifi-access-point-scripts**](https://github.com/Eyadeltaher/wifi-access-point-scripts)                                               | Shell scripts to create a Wi-Fi AP on Linux — useful for labs and network testing.    |
-| [**Two-Way-Encrypted-Communication-Server-in-Python**](https://github.com/Eyadeltaher/Two-Way-Encrypted-Communication-Server-in-Python) | Encrypted client-server project using bcrypt for auth and Fernet (AES) for messaging. |
-| [**jif-8**](https://github.com/Eyadeltaher/jif-8)                                                                                       | Java CHIP-8 emulator — explores CPU instruction design and emulation techniques.      |
-| [**Java-offline-Account-Manager**](https://github.com/Eyadeltaher/Java-offline-Account-Manager)                                         | Privacy-focused offline account manager built with JavaFX and local serialization.    |
-| [**Simple-Library-Management-System-JAVA**](https://github.com/Eyadeltaher/Simple-Library-Management-System-JAVA)                       | Example project for OOP and basic DB interactions.                                    |
-| [**GroupChat-Application**](https://github.com/Eyadeltaher/GroupChat-Application)                                                       | Multithreaded chat server & client in C — demonstrates sockets and concurrency.       |
-| [**asciivideo**](https://github.com/Eyadeltaher/asciivideo)                                                                             | Renders videos as ASCII art in the terminal — creative and technical.                 |
-
----
-
-Each repo includes READMEs with setup and usage notes — feel free to explore, fork, or contribute.
-
----
-
-## 📈 **GitHub Stats & Activity**
+##  **GitHub Stats & Activity**
 
 <div align="center">
 
@@ -102,10 +63,10 @@ Each repo includes READMEs with setup and usage notes — feel free to explore, 
 
 ---
 
-## 📜 **Certifications & Badges**
+##  **Certifications & Badges**
 
 Verified certificates and proofs are stored here:
-[🎓 View Certificates (Google Drive)](https://drive.google.com/drive/u/0/folders/1VIqm13Z2vrF-gOrc_qZyJO90M0zKyIpJ)
+[ View Certificates (Google Drive)](https://drive.google.com/drive/u/0/folders/1VIqm13Z2vrF-gOrc_qZyJO90M0zKyIpJ)
 
 | Certification                            | Issuer / Platform                            | Notes                                               |
 | :--------------------------------------- | :------------------------------------------- | :-------------------------------------------------- |
@@ -121,33 +82,9 @@ Verified certificates and proofs are stored here:
 
 ---
 
-## 📝 **Latest Blog Posts / Write-ups**
-
-<!-- BLOG-POST-LIST:START -->
-
-* [Understanding XSS (Cross-Site Scripting) — Practical Notes & Labs](https://github.com/Eyadeltaher/Cybersecurity-notes/tree/main/notes/XSS)
-  🔍 Hands-on breakdown of XSS types, payloads, and mitigation.
-
-* [CSRF (Cross-Site Request Forgery) — Deep Dive with Real Labs](https://github.com/Eyadeltaher/Cybersecurity-notes/tree/main/notes/CSRF)
-  🎯 Explains CSRF exploit chains, lab examples, and defensive measures.
-
-* [OverTheWire — SQLi (Natas) Write-ups](https://github.com/Eyadeltaher/OverTheWire-Natas)
-  🧩 Focused on web SQLi challenges (Natas-style): payloads, bypasses, and remediation.
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 **Let's Connect**
-
-* **Recruiting / Opportunities:** [LinkedIn](https://www.linkedin.com/in/eyadeltaher/)
-* **Consulting / VDP:** [eltahereyad0@gmail.com](mailto:eltahereyad0@gmail.com)
-
----
-
 <div align="center">
 
-### ⚠️ **Legal & Responsible Disclosure**
+###  **Legal & Responsible Disclosure**
 
 *All work presented here is for educational, authorized testing, and research purposes only. I do not condone unauthorized hacking. Always obtain explicit permission before testing any system.*
 
